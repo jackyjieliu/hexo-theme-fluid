@@ -5,9 +5,9 @@ home:
   title: '首頁'
 
 archive:
-  menu: '歸檔'
-  title: '歸檔'
-  subtitle: '歸檔'
+  menu: '所有文章'
+  title: '所有文章'
+  subtitle: '所有文章'
   post_total: '共有 %d 篇文章'
 
 category:
